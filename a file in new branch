@@ -1,0 +1,5 @@
+#include<iostream>
+int main() {
+  std::cin >> "love lily">> std::endl;
+  return 0;
+}
